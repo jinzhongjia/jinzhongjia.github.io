@@ -104,11 +104,4 @@ theme: minima
 deploy:
     type: ""
 
-# setting for minima
 
-# switch_dark:
-# switch_light:
-# greet: "Hi Folks."
-# menu:
-# email:
-# footer:

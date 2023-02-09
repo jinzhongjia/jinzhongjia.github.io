@@ -11,7 +11,8 @@ desc: "This is my personal blog for recording problems and life thoughts, welcom
 
 #menu
 menu:
-  About: /About
+    Works:
+    About: /About
 
 #index/main page max show posts (in number)
 max_post: 8
@@ -21,12 +22,12 @@ footer: true
 placename: China
 placelink: https://en.wikipedia.org/wiki/China
 github: https://github.com/jinzhongjia
-linkedin: 
-twitter: 
-instagram: 
-stackoverflow: 
+linkedin:
+twitter:
+instagram:
+stackoverflow:
 
 # favicon
-favicon: /images/favicon.png
+favicon: /images/favicon.ico
 # thumbnail
 thumbnail: /images/thumbnail.jpg
