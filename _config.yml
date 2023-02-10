@@ -104,4 +104,5 @@ theme: minima
 deploy:
     type: ""
 
-
+# Configuration for minifier
+all_minifier: true
