@@ -11,7 +11,7 @@ desc: "This is my personal blog for recording problems and life thoughts, welcom
 
 #menu
 menu:
-    Works:
+    Archives: /archives
     About: /About
 
 #index/main page max show posts (in number)
