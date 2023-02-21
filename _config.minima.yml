@@ -18,7 +18,7 @@ menu:
 max_post: 8
 
 # cancel user's css
-usercss: 
+usercss: /public/css/user.css
 
 # social profile at the footer/bottom
 footer: true
@@ -31,6 +31,6 @@ instagram:
 stackoverflow:
 
 # favicon
-favicon: /images/favicon.ico
+favicon: /public/images/favicon.ico
 # thumbnail
-thumbnail: /images/thumbnail.jpg
+thumbnail: /public/images/thumbnail.jpg
