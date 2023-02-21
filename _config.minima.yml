@@ -17,6 +17,9 @@ menu:
 #index/main page max show posts (in number)
 max_post: 8
 
+# cancel user's css
+usercss: 
+
 # social profile at the footer/bottom
 footer: true
 placename: China
