@@ -104,5 +104,11 @@ theme: minima
 deploy:
     type: ""
 
+search:
+  path: search.json
+  field: post
+  content: false
+#   template: ./search.xml
+
 # Configuration for minifier
 all_minifier: true
