@@ -4,6 +4,7 @@
 	"private": true,
 	"scripts": {
 		"new": "hexo new",
+		"draft":"hexo publish",
 		"g": "hexo generate",
 		"c": "hexo clean",
 		"d": "hexo deploy",
