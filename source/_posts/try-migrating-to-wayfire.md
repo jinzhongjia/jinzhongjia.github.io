@@ -54,4 +54,33 @@ For logout menu:
 
 -   [wlogout](https://github.com/ArtsyMacaw/wlogout)
 
+For Idle management daemon:
+
+-   [swayidle](https://github.com/swaywm/swayidle)
+
+For screen locker:
+
+-   [swaylock](https://github.com/swaywm/swaylock)
+
+For auto-reload profile on hotplug:
+
+-   [kanshi](https://wayland.emersion.fr/kanshi/)
+
+For Day/night gamma adjustments:
+
+-   [wlsunset](https://sr.ht/~kennylevinsen/wlsunset/)
+
+For Screenshots:
+
+-   [grim](https://wayland.emersion.fr/grim/)
+-   [slurp](https://wayland.emersion.fr/slurp/)
+
+For volume control:
+
+-   [amixer](https://alsa-project.org)
+
+For Screen brightness control:
+
+-   [light](https://haikarainen.github.io/light/)
+
 For more other programs, you can found [here](https://wiki.archlinux.org/title/List_of_applications/Other).
