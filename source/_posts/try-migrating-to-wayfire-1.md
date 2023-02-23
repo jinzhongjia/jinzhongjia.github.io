@@ -83,4 +83,8 @@ For Screen brightness control:
 
 -   [light](https://haikarainen.github.io/light/)
 
+For Wallpaper:
+
+-   [swaybg](https://github.com/swaywm/swaybg)
+
 For more other programs, you can found [here](https://wiki.archlinux.org/title/List_of_applications/Other).
