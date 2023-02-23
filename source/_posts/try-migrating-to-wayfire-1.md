@@ -28,7 +28,23 @@ It bases `Wayland` protocol, which is more modern than `X11`, more information c
 
 ## Usage
 
-More to be perfected!
+The official provides a very detailed [tutorial](https://github.com/WayfireWM/wayfire/wiki/Tutorial), so I won’t talk about the basic tutorial here, just mention some problems and points encountered in the setup.
+
+I suggest you read and complete the official getting started guide first
+
+### The keybind of `PRTSC` ?
+
+You need to use `KEY_SYSRQ` instead of `KEY_PRINT` in default config! About more, you can learn from [here](https://github.com/WayfireWM/wayfire/issues/745)!
+
+### `WayBar` start slowly in `Wayfire`?
+
+It seems to be because of `xdg-desktop-portal`, it wakes up by dbus by default, but dbus tends to be slow!
+
+We can add this in wayfire section `autostart`
+
+```ini
+dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY
+```
 
 ## Other component tools
 
