@@ -86,5 +86,6 @@ For Screen brightness control:
 For Wallpaper:
 
 -   [swaybg](https://github.com/swaywm/swaybg)
+-   [wallpaper](https://wall.alphacoders.com/)
 
 For more other programs, you can found [here](https://wiki.archlinux.org/title/List_of_applications/Other).
