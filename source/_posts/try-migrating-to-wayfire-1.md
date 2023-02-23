@@ -46,6 +46,8 @@ We can add this in wayfire section `autostart`
 dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY
 ```
 
+More infomation, [here](https://github.com/swaywm/sway/issues/5732)
+
 ## Other component tools
 
 For launcher/menu:
