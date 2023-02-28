@@ -56,7 +56,7 @@ That is because lightdm runs under `X11`, and then it will attempt to start `way
 
 More infomation, can be found [here](https://github.com/WayfireWM/wayfire/issues/1479).
 
-### About vvolume control
+### About volume control
 
 We can use `pavucontrol` to control pulseaudio, which is a tui tool.
 
