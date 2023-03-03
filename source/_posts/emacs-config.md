@@ -33,4 +33,18 @@ Just as this:
   (load-file custom-file))
 ```
 
+## Lightweight finished frame
+
+Maybe you use `ivy` or `helm`, these are very good plugins for command compeletion.
+
+But now we can use `fido mode` to complete, it is embeded and light.
+
+To enable it, you can just add this:
+
+```elisp
+(fido-mode t)
+;; for vertical mode, use this
+(fido-vertical-mode t)
+```
+
 More to be added!
