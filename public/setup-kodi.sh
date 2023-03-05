@@ -29,7 +29,7 @@ fi
 #     export CURL="curl"
 # fi
 
-CURL="curl -k"
+export CURL="curl -k"
 
 #get support scripts
 echo -e "\nDownloading supporting files..."
