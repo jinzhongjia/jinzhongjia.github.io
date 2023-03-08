@@ -25,3 +25,7 @@ Below is my work:
 -   [Lspui.nvim](https://github.com/jinzhongjia/LspUI.nvim)
 -   [PS-manager.nvim](https://github.com/jinzhongjia/PS_manager.nvim)
 -   [satisfactory](https://github.com/jinzhongjia/satisfactory)
+
+Useful references for myself:
+
+- [osdev](https://wiki.osdev.org/Main_Page)
