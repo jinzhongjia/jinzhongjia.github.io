@@ -29,3 +29,4 @@ Below is my work:
 Useful references for myself:
 
 - [osdev](https://wiki.osdev.org/Main_Page)
+- [os-phil](https://os.phil-opp.com/)
