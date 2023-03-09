@@ -19,6 +19,8 @@ Programming languages ​​i have learned:
 
 And now, I'm learning `zig`, which is a modern low-level programing language.
 
+And I'm learning how to write `x86` OS
+
 Below is my work:
 
 -   [Movie-getter](https://github.com/jinzhongjia/movie-getter)
