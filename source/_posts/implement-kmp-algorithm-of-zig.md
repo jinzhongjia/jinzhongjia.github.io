@@ -74,9 +74,6 @@ For `KMP` matchind:
 ```zig
 pub fn kmp(str: []const u8, comptime ch: []const u8) u16 {
     var next = comptime get_next(ch);
-    for (next) |val| {
-        std.debug.print("{}", .{val});
-    }
     var i: u16 = 0;
     var j: u16 = 0;
     while (i < str.len and j < ch.len) {
