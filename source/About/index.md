@@ -33,3 +33,4 @@ Useful references for myself:
 - [osdev](https://wiki.osdev.org/Main_Page)
 - [os-phil](https://os.phil-opp.com/)
 - [x86 Assembly wikibook](https://en.wikibooks.org/wiki/X86_Assembly)
+- [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
